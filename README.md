@@ -3,7 +3,7 @@
 * Java программист
 * Возраст - 25 лет
 * Проживаю в городе Новосибирск
-* Опыт разработки на Java - 1 год
+* Опыт разработки на Java - 1.5 года
 
 ### Использованные технологии  
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
